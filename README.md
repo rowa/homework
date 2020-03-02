@@ -1,11 +1,5 @@
-# finalproject-b
-本科毕业设计
-
-//本仓库的目录结构如下：
-//-Code目录用来保存代码
-//-Document目录用来保存文档
-//--Refs目录用来保存参考文献
-//--Products目录用来保存自己产出的文档
+# homework
+程序设计作业
 
 //请填入以下XX部分的内容
 //关于mark down语法及在线编辑，可参考https://www.mdeditor.com/
@@ -17,9 +11,15 @@ https://docs.qq.com/doc/DR2tFek1YdGpNSG9X
   - 班级：xx
   - 姓名：xx
   - 学号：xx
+  - 班内序号：xx
 
-#课题名称:XX
+#第XX次作业
 
+#作业题目
+XX
 
-#课题目标
+#测试案例及运行效果
+
+（如何插入图片<https://blog.csdn.net/itmyhome1990/article/details/48765703）
+
 XX
